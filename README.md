@@ -1,4 +1,4 @@
 # LearnGit
 Learning GIT
 
-Author Raman Singh
+Author Raman Ratnakar Singh
